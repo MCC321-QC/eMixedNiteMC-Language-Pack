@@ -24,3 +24,6 @@ Link: _Soon!_<br>
   * Localized at 100% only in these language
     * English US (en_US)
     * French FR (fr_FR)
+
+
+### Link: [Forum](https://playnite.link/forum/) _Soon!_
