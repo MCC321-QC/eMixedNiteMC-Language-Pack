@@ -15,10 +15,15 @@ Link: [eMixedNiteMCLanguagePack_1_0.pext](https://github.com/MCC321-QC/eMixedNi
 ## Changelog
 
 * **_Version: 1.0_**
-  * Initial release
-  * Localized at 100% only in these language
-    * English US (en_US)
-    * French FR (fr_FR)
+  * First Release
+  * Needed for the theme eMixedNiteMC to work properly
+  * Add Localization to eMixedNiteMC v2.75+
+    * Localized with [Crowdin](https://crowdin.com/)
+    * You can help translate [here](https://crowdin.com/project/emixednitemc)
+    * Only 100% localized in these language at the moment
+      * English US
+      * French FR
+<br>
 
 ### Link: [Forum](https://playnite.link/forum/thread-1206.html)
 You can help translate this extension on [Crowdin](https://crowdin.com/project/emixednitemc)
