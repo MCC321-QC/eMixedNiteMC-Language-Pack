@@ -50,7 +50,7 @@
 	<sys:String x:Key="LOCGameListWidth">Largeur de la liste</sys:String>
 	
 	<!-- GridView -->
-	
+
 	<sys:String x:Key="LOCGridViewCoverHeight">Hauteur de la couverture(Permanent!)</sys:String>
 	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Vue de l'affichage grille:</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHover">Roue de paramètres rapide pour la vue de l'affichage en grille</sys:String>
