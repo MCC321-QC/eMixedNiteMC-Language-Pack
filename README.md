@@ -20,4 +20,5 @@ Link: [eMixedNiteMCLanguagePack_1_0.pext](https://github.com/MCC321-QC/eMixedNi
     * English US (en_US)
     * French FR (fr_FR)
 
-### Link: [Forum](https://playnite.link/forum/) _Soon!_
+### Link: [Forum](https://playnite.link/forum/thread-1206.html)
+You can help translate this extension on [Crowdin](https://crowdin.com/project/emixednitemc)
