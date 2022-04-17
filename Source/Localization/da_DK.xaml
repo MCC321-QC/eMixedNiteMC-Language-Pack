@@ -13,7 +13,7 @@
 	<sys:String x:Key="LOCGameViewTitleVisibility">Title Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">Toggle Position Of Features Panel</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">HLTB Icons/Labels Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
+	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact Lists</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">Toggle Top Part Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">Play/Stop Trailer Video</sys:String>
 	<sys:String x:Key="LOCGameViewProgression">Completion</sys:String>
