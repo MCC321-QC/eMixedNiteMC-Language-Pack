@@ -1,0 +1,14 @@
+AddonId: eMixedNiteMCLanguagePack_7ed74021-1c44-4baf-91a7-c3a6852de35c
+Packages:
+  - Version: 1.0
+    RequiredApiVersion: 6.2.2
+    ReleaseDate: 2022-04-17
+    PackageUrl: https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.0/eMixedNiteMCLanguagePack_1_0.pext
+    Changelog:
+      - First Release
+      - Needed for the theme eMixedNiteMC to work properly
+      - Add Localization to eMixedNiteMC v2.75+
+        - Localized with Crowdin
+        - Only 100% localized in these language at the moment
+          - English US
+          - French FR

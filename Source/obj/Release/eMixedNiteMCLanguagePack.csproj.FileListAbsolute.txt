@@ -14,3 +14,19 @@ C:\Users\phil_\Documents\eMixedNiteMC Language Pack Project\eMixedNiteMCLanguage
 C:\Users\phil_\Documents\eMixedNiteMC Language Pack Project\eMixedNiteMCLanguagePack\obj\Release\eMixedNiteMCLanguagePack.csproj.CopyComplete
 C:\Users\phil_\Documents\eMixedNiteMC Language Pack Project\eMixedNiteMCLanguagePack\obj\Release\eMixedNiteMCLanguagePack.dll
 C:\Users\phil_\Documents\eMixedNiteMC Language Pack Project\eMixedNiteMCLanguagePack\obj\Release\eMixedNiteMCLanguagePack.pdb
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\bin\Release\icon.png
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\bin\Release\extension.yaml
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\bin\Release\eMixedNiteMCLanguagePack.dll
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\bin\Release\eMixedNiteMCLanguagePack.pdb
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\bin\Release\Playnite.SDK.dll
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\bin\Release\Playnite.SDK.xml
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack.csproj.AssemblyReference.cache
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\App.baml
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePackSettingsView.baml
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePackSettingsView.g.cs
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack_MarkupCompile.cache
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack.g.resources
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack.csproj.CoreCompileInputs.cache
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack.csproj.CopyComplete
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack.dll
+C:\Users\phil_\Documents\GitHub\eMixedNiteMC-Language-Pack\Source\obj\Release\eMixedNiteMCLanguagePack.pdb
