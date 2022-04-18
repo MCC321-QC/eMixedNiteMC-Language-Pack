@@ -16,11 +16,11 @@
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Alternar lista de logros predeterminada/compacta</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">Alternar la visibilidad de la parte superior</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">Reproducir/pausar trailer</sys:String>
-	<sys:String x:Key="LOCGameViewProgression">Completion</sys:String>
+	<sys:String x:Key="LOCGameViewProgression">Estado</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBLabelTitle">How Long To Beat</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">Main:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">Historia:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">Extras:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completionist:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completo:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Solo:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Co-Op:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
@@ -29,9 +29,9 @@
 	<sys:String x:Key="LOCGameViewSSCompactIconLabel">Logros bloqueados/desbloqueados</sys:String>
 	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">Todos los logros</sys:String>
 	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">Cronología</sys:String>
-	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">UserStats</sys:String>
-	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Last Session</sys:String>
-	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Time Session</sys:String>
+	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">Estadísticas</sys:String>
+	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Última vez</sys:String>
+	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Actividad</sys:String>
 	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Últimas noticias</sys:String>
 	<sys:String x:Key="LOCGameViewOpenExpanderHover">Expandir panel</sys:String>
 	<sys:String x:Key="LOCGameViewCloseExpanderHover">Contraer panel</sys:String>
@@ -41,7 +41,7 @@
 	<sys:String x:Key="LOCGameViewCoverHeight">Altura de la carátula</sys:String>
 	<sys:String x:Key="LOCGameViewExpanderVisibility">Visibilidad del botón de expandir/contraer</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsVisibility">Visibilidad del panel de detalles</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsColumnCount">Details Panel Column Count Toggle</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsColumnCount">Alternar el número de columnas del panel de detalles</sys:String>
 	
 	<!-- General GameList -->
 	
