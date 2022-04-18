@@ -3,18 +3,18 @@
 
     <!-- General GameView -->
 	
-	<sys:String x:Key="LOCGameViewBannerVisibility">Banner Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewCoverVisibility">Cover Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewBannerText">Toggle Image/Text In Banner</sys:String>
-	<sys:String x:Key="LOCGameViewBannerPosition">Toggle Banner Position</sys:String>
-	<sys:String x:Key="LOCGameViewLibraryBanners">Toggle Library Banners</sys:String>
-	<sys:String x:Key="LOCGameViewLibraryIcons">Toggle Use Of Platform/Library Icons</sys:String>
+	<sys:String x:Key="LOCGameViewBannerVisibility">Visibilidad del banner</sys:String>
+	<sys:String x:Key="LOCGameViewCoverVisibility">Visibilidad de la carátula</sys:String>
+	<sys:String x:Key="LOCGameViewBannerText">Alternar imagen/texto en el banner</sys:String>
+	<sys:String x:Key="LOCGameViewBannerPosition">Alternar posición del banner</sys:String>
+	<sys:String x:Key="LOCGameViewLibraryBanners">Alternar banners de la biblioteca</sys:String>
+	<sys:String x:Key="LOCGameViewLibraryIcons">Alternar el uso de los iconos de la plataforma/biblioteca</sys:String>
 	<sys:String x:Key="LOCGameViewLogoVisibility">Visibilidad del Logo</sys:String>
 	<sys:String x:Key="LOCGameViewTitleVisibility">Visibilidad del título</sys:String>
-	<sys:String x:Key="LOCGameViewFeaturesPosition">Toggle Position Of Features Panel</sys:String>
+	<sys:String x:Key="LOCGameViewFeaturesPosition">Alternar la posición del panel de características</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">Visibilidad de iconos de HLTB / etiquetas</sys:String>
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Alternar lista de logros predeterminada/compacta</sys:String>
-	<sys:String x:Key="LOCGameViewTopPartVisibility">Toggle Top Part Visibility</sys:String>
+	<sys:String x:Key="LOCGameViewTopPartVisibility">Alternar la visibilidad de la parte superior</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">Reproducir/pausar trailer</sys:String>
 	<sys:String x:Key="LOCGameViewProgression">Completion</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBLabelTitle">How Long To Beat</sys:String>
@@ -51,7 +51,7 @@
 	
 	<!-- GridView -->
 
-	<sys:String x:Key="LOCGridViewCoverHeight">Cover Height(Permanent!)</sys:String>
+	<sys:String x:Key="LOCGridViewCoverHeight">Alto de la carátula (¡Permanente!)</sys:String>
 	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Vista de cuadrícula:</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHover">Rueda de ajustes rápidos de la vista de cuadrícula</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">Ajustes rápidos de la vista de cuadrícula</sys:String>
@@ -60,7 +60,7 @@
 	
 	<sys:String x:Key="LOCGridListQuickSettingsTitle">Vista de cuadrícula:</sys:String>
 	<sys:String x:Key="LOCGridListQuickSettingsHover">Ajustes rápidos de la lista de cuadrícula</sys:String>
-	<sys:String x:Key="LOCGridListInfoPanelVisibility">Information Panel Visibility</sys:String>
+	<sys:String x:Key="LOCGridListInfoPanelVisibility">Visibilidad del panel de información</sys:String>
 	
 	<!-- DetailsView -->
 	
