@@ -24,34 +24,34 @@
 	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Solo:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Co-Op:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
-	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Unlocked Achievements</sys:String>
-	<sys:String x:Key="LOCGameViewSSLockedIconLabel">Locked Achievements</sys:String>
+	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Logros desbloqueados</sys:String>
+	<sys:String x:Key="LOCGameViewSSLockedIconLabel">Logros bloqueados</sys:String>
 	<sys:String x:Key="LOCGameViewSSCompactIconLabel">Logros bloqueados/desbloqueados</sys:String>
 	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">Todos los logros</sys:String>
 	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">Cronología</sys:String>
 	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">UserStats</sys:String>
 	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Last Session</sys:String>
 	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Time Session</sys:String>
-	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Latest News</sys:String>
-	<sys:String x:Key="LOCGameViewOpenExpanderHover">Open Expander</sys:String>
-	<sys:String x:Key="LOCGameViewCloseExpanderHover">Close Expander</sys:String>
-	<sys:String x:Key="LOCGameViewIconHeight">Icon Height</sys:String>
-	<sys:String x:Key="LOCGameViewTopPartHeight">Top Part Height</sys:String>
-	<sys:String x:Key="LOCGameViewBannerHeight">Banner Height</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">Cover Height</sys:String>
-	<sys:String x:Key="LOCGameViewExpanderVisibility">Expander Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsVisibility">Details Panel Visibility</sys:String>
+	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Últimas noticias</sys:String>
+	<sys:String x:Key="LOCGameViewOpenExpanderHover">Expandir panel</sys:String>
+	<sys:String x:Key="LOCGameViewCloseExpanderHover">Contraer panel</sys:String>
+	<sys:String x:Key="LOCGameViewIconHeight">Altura del icono</sys:String>
+	<sys:String x:Key="LOCGameViewTopPartHeight">Alto de la parte superior</sys:String>
+	<sys:String x:Key="LOCGameViewBannerHeight">Altura del banner</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">Altura de la carátula</sys:String>
+	<sys:String x:Key="LOCGameViewExpanderVisibility">Visibilidad del botón de expandir/contraer</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsVisibility">Visibilidad del panel de detalles</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsColumnCount">Details Panel Column Count Toggle</sys:String>
 	
 	<!-- General GameList -->
 	
-	<sys:String x:Key="LOCGameListPlayButton">Play</sys:String>
+	<sys:String x:Key="LOCGameListPlayButton">Iniciar</sys:String>
 	<sys:String x:Key="LOCGameListQuickSettingsHover">Rueda de ajustes rápidos</sys:String>
 	<sys:String x:Key="LOCGameListWidth">Ancho de lista</sys:String>
 	
 	<!-- GridView -->
 
-	<sys:String x:Key="LOCGridViewCoverHeight">Alto de la carátula (¡Permanente!)</sys:String>
+	<sys:String x:Key="LOCGridViewCoverHeight">Altura de la carátula (¡Permanente!)</sys:String>
 	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Vista de cuadrícula:</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHover">Rueda de ajustes rápidos de la vista de cuadrícula</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">Ajustes rápidos de la vista de cuadrícula</sys:String>
@@ -65,13 +65,13 @@
 	<!-- DetailsView -->
 	
 	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Vista detallada:</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Details View Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Details View Quick Settings</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Rueda de ajustes rápidos de la vista detallada</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Ajustes rápidos de la vista detallada</sys:String>
 	
 	<!-- DetailsList -->
 	
 	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Lista detallada:</sys:String>
-	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Configuración rápida de la lista detallada</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Ajustes rápidos de la lista detallada</sys:String>
 	<sys:String x:Key="LOCDetailsListMultiLineTitle">Título de juego multi-línea</sys:String>
 	<sys:String x:Key="LOCDetailsListInfoVisibility">Visibilidad de la información</sys:String>
 	<sys:String x:Key="LOCDetailsListLessInfo">Mostrar menos información</sys:String>
