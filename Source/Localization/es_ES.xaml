@@ -58,8 +58,8 @@
 	
 	<!-- GridList -->
 	
-	<sys:String x:Key="LOCGridListQuickSettingsTitle">Lista de cuadrícula:</sys:String>
-	<sys:String x:Key="LOCGridListQuickSettingsHover">Ajustes rápidos de la lista de cuadrícula</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsTitle">Lista de la cuadrícula:</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsHover">Ajustes rápidos de la lista de la cuadrícula</sys:String>
 	<sys:String x:Key="LOCGridListInfoPanelVisibility">Visibilidad del panel de información</sys:String>
 	
 	<!-- DetailsView -->
@@ -70,8 +70,8 @@
 	
 	<!-- DetailsList -->
 	
-	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Lista detallada:</sys:String>
-	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Ajustes rápidos de la lista detallada</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Lista de la vista detallada:</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Ajustes rápidos de la lista de la vista detallada</sys:String>
 	<sys:String x:Key="LOCDetailsListMultiLineTitle">Título de juego multi-línea</sys:String>
 	<sys:String x:Key="LOCDetailsListInfoVisibility">Visibilidad de la información</sys:String>
 	<sys:String x:Key="LOCDetailsListLessInfo">Mostrar menos información</sys:String>
