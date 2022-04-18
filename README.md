@@ -17,12 +17,12 @@ Link: [eMixedNiteMC Language Pack 1.2](https://github.com/MCC321-QC/eMixedNiteM
 * **_Version: 1.2_**
   * Updated localization
     * Arabic ~80% (Done by [X4Lo](https://crowdin.com/profile/x4lo))
-    * Spanish 100% (Done by [BanCrash](https://github.com/BanCrash))
+    * Spanish 100% (Done by [BanCrash](https://crowdin.com/profile/bancrash))
 
 * **_Version: 1.1_**
   * Updated localization
     * Localization files cleanup
-    * Spanish done at ~50% (done by [BanCrash](https://github.com/BanCrash))
+    * Spanish done at ~50% (done by [BanCrash](https://crowdin.com/profile/bancrash))
 
 * **_Version: 1.0_**
   * First Release
