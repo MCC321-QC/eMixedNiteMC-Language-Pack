@@ -58,7 +58,7 @@
 	
 	<!-- GridList -->
 	
-	<sys:String x:Key="LOCGridListQuickSettingsTitle">Vista de cuadrícula:</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsTitle">Lista de cuadrícula:</sys:String>
 	<sys:String x:Key="LOCGridListQuickSettingsHover">Ajustes rápidos de la lista de cuadrícula</sys:String>
 	<sys:String x:Key="LOCGridListInfoPanelVisibility">Visibilidad del panel de información</sys:String>
 	
