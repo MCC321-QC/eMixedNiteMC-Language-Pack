@@ -4,7 +4,7 @@ Provide the functionality to localize [eMixedNiteMC](https://github.com/MCC321-Q
 <br>
 
 
-## Initial Release!
+## New Release!
 
 Link: [eMixedNiteMC Language Pack 1.1](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.1/eMixedNiteMCLanguagePack_1_1.pext)<br>
 <br>
