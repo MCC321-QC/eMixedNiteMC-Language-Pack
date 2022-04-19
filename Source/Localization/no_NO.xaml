@@ -3,8 +3,8 @@
 
     <!-- General GameView -->
 	
-	<sys:String x:Key="LOCGameViewBannerVisibility">Banner Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewCoverVisibility">Cover Visibility</sys:String>
+	<sys:String x:Key="LOCGameViewBannerVisibility">Bannersynlighet</sys:String>
+	<sys:String x:Key="LOCGameViewCoverVisibility">Omslagssynlighet</sys:String>
 	<sys:String x:Key="LOCGameViewBannerText">Toggle Image/Text In Banner</sys:String>
 	<sys:String x:Key="LOCGameViewBannerPosition">Toggle Banner Position</sys:String>
 	<sys:String x:Key="LOCGameViewLibraryBanners">Toggle Library Banners</sys:String>
