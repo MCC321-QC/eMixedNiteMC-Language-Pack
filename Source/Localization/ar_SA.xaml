@@ -12,7 +12,7 @@
 	<sys:String x:Key="LOCGameViewLogoVisibility">رؤية الشعار</sys:String>
 	<sys:String x:Key="LOCGameViewTitleVisibility">رؤية العنوان</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">تبديل موقع لوحة الميزات</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBVisibility">HLTB Icons/Labels Visibility</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBVisibility">بروز رؤية رموز/ملصقات HLTB</sys:String>
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">تبديل رؤية الجزء العلوي</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">تشغيل/إيقاف مقطع الفيديو</sys:String>
@@ -21,15 +21,15 @@
 	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">الرئيسية:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">إضافات:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completionist:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Solo:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Co-Op:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBSoloLabel">فردي:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">المشاركة:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
 	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">الإنجازات المفتوحة</sys:String>
 	<sys:String x:Key="LOCGameViewSSLockedIconLabel">الإنجازات المقفلة</sys:String>
 	<sys:String x:Key="LOCGameViewSSCompactIconLabel">جميع الإنجازات</sys:String>
 	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">جميع الإنجازات</sys:String>
 	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">الخط الزمني</sys:String>
-	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">UserStats</sys:String>
+	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">إحصاءات المستخدم</sys:String>
 	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Last Session</sys:String>
 	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Time Session</sys:String>
 	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">آخر الأخبار</sys:String>
@@ -41,7 +41,7 @@
 	<sys:String x:Key="LOCGameViewCoverHeight">ارتفاع الغلاف</sys:String>
 	<sys:String x:Key="LOCGameViewExpanderVisibility">رؤية الموسع</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsVisibility">رؤية لوحة التفاصيل</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsColumnCount">Details Panel Column Count Toggle</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsColumnCount">تبديل عدد أعمدة لوحة التفاصيل</sys:String>
 	
 	<!-- General GameList -->
 	
@@ -65,8 +65,8 @@
 	<!-- DetailsView -->
 	
 	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">عرض التفاصيل:</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Details View Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Details View Quick Settings</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">عجلة الإعدادات السريعة لعرض التفاصيل</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">الإعدادات السريعة لعرض التفاصيل</sys:String>
 	
 	<!-- DetailsList -->
 	
