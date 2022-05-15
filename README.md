@@ -1,18 +1,22 @@
 _eMixedNiteMC Language Pack_ is a language pack for [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC)
-# eMixedNiteMC Language Pack [![Release](https://img.shields.io/github/v/release/MCC321-QC/eMixedNiteMC-Language-Pack?display_name=release&include_prereleases&label=Release&sort=date&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/tag/v1.3) [![Download](https://img.shields.io/github/downloads/MCC321-QC/eMixedNiteMC-Language-Pack/total?label=Downloads&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.3/eMixedNiteMCLanguagePack_1_3.pext) [![Crowdin](https://badges.crowdin.net/emixednitemc/localized.svg)](https://crowdin.com/project/emixednitemc)
+# eMixedNiteMC Language Pack [![Release](https://img.shields.io/github/v/release/MCC321-QC/eMixedNiteMC-Language-Pack?display_name=release&include_prereleases&label=Release&sort=date&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/tag/v1.4) [![Download](https://img.shields.io/github/downloads/MCC321-QC/eMixedNiteMC-Language-Pack/total?label=Downloads&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.4/eMixedNiteMCLanguagePack_1_4.pext) [![Crowdin](https://badges.crowdin.net/emixednitemc/localized.svg)](https://crowdin.com/project/emixednitemc)
 Provide the functionality to localize [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) v2.75+ in any language Playnite support. This extension is ***Needed*** to run [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) properly!<br>
 <br>
 
 
 ## New Release!
 
-Link: [eMixedNiteMC Language Pack 1.3](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.3/eMixedNiteMCLanguagePack_1_3.pext)<br>
+Link: [eMixedNiteMC Language Pack 1.4](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.4/eMixedNiteMCLanguagePack_1_4.pext)<br>
 <br>
 
 <img src="https://i.imgur.com/XBMqltv.png"><br>
 <br>
 
 ## Changelog
+
+* **_Version: 1.4_**
+  * Updated localization
+    * Added "LOCGameViewPlayCountVisibility"
 
 * **_Version: 1.3_**
   * Updated localization
