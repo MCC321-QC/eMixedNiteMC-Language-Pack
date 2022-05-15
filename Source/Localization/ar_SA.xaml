@@ -11,6 +11,7 @@
 	<sys:String x:Key="LOCGameViewLibraryIcons">تبديل استخدام أيقونات المنصات/المكتبة</sys:String>
 	<sys:String x:Key="LOCGameViewLogoVisibility">رؤية الشعار</sys:String>
 	<sys:String x:Key="LOCGameViewTitleVisibility">رؤية العنوان</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountVisibility">Play Count Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">تبديل موقع لوحة الميزات</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">بروز رؤية رموز/ملصقات HLTB</sys:String>
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
