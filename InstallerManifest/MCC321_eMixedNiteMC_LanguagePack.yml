@@ -2,10 +2,11 @@ AddonId: eMixedNiteMCLanguagePack_7ed74021-1c44-4baf-91a7-c3a6852de35c
 Packages:
   - Version: 1.4
     RequiredApiVersion: 6.2.2
-    ReleaseDate: 2022-04-15
+    ReleaseDate: 2022-05-15
     PackageUrl: https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.4/eMixedNiteMCLanguagePack_1_4.pext
     Changelog:
       - Updated localization
+      - Added LOCGameViewPlayCountVisibility
   - Version: 1.3
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-04-23
@@ -13,16 +14,16 @@ Packages:
     Changelog:
       - Updated localization
       - Correction of 4 translations in Spanish Done by BanCrash
-      - Norwegian 5 Done by MeatBoy
-      - Arabic 100 Done by X4Lo
+      - Norwegian 5 (Done by MeatBoy)
+      - Arabic 100% (Done by X4Lo)
 - Version: 1.2
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-04-18
     PackageUrl: https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.2/eMixedNiteMCLanguagePack_1_2.pext
     Changelog:
       - Updated localization
-      - Arabic 80 Done by X4Lo
-      - Spanish 100 Done by BanCrash
+      - Arabic 80% (Done by X4Lo)
+      - Spanish 100% (Done by BanCrash)
   - Version: 1.1
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-04-17
@@ -30,7 +31,7 @@ Packages:
     Changelog:
       - Updated Localization
       - Localization files cleanup
-      - Spanish done at 50 done by BanCrash
+      - Spanish done at 50% (Done by BanCrash)
   - Version: 1.0
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-04-17
@@ -40,6 +41,6 @@ Packages:
       - Needed for the theme eMixedNiteMC to work properly
       - Add Localization to eMixedNiteMC
       - Localized with Crowdin
-      - Only 100 localized in these language at the moment
+      - Only 100% localized in these language at the moment
       - English US
       - French FR
