@@ -6,7 +6,6 @@ Packages:
     PackageUrl: https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.4/eMixedNiteMCLanguagePack_1_4.pext
     Changelog:
       - Updated localization
-      - Added LOCGameViewPlayCountVisibility
   - Version: 1.3
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-04-23
