@@ -17,7 +17,11 @@
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">تبديل رؤية الجزء العلوي</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">تشغيل/إيقاف مقطع الفيديو</sys:String>
+	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">Not Played</sys:String>
 	<sys:String x:Key="LOCGameViewProgression">الإكتمال</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountNotPlayed">Not Played</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTimes">Times</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTime">Time</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBLabelTitle">How Long To Beat</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">الرئيسية:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">إضافات:</sys:String>
