@@ -20,8 +20,8 @@
 	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">[Pas encore lancé]</sys:String>
 	<sys:String x:Key="LOCGameViewProgression">Progression</sys:String>
 	<sys:String x:Key="LOCGameViewPlayCountNotPlayed">[Pas encore lancé]</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountTimes">Fois</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountTime">Fois</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTimes">fois</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTime">fois</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBLabelTitle">Temps Pour Complétion</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">Histoire Principale:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">Extras:</sys:String>
