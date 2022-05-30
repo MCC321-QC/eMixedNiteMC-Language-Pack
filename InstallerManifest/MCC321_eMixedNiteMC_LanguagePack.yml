@@ -1,5 +1,16 @@
 AddonId: eMixedNiteMCLanguagePack_7ed74021-1c44-4baf-91a7-c3a6852de35c
 Packages:
+  - Version: 1.6
+    RequiredApiVersion: 6.2.2
+    ReleaseDate: 2022-05-30
+    PackageUrl: https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.6/eMixedNiteMCLanguagePack_1_6.pext
+    Changelog:
+      - Updated localization
+      - Added LOCGameViewLastPlayedNotPlayed
+      - Added LOCGameViewPlayCountNotPlayed
+      - Added LOCGameViewPlayCountTimes
+      - Added LOCGameViewPlayCountTime
+      - Spanish Updated (Done by BanCrash)
   - Version: 1.5
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-05-15
