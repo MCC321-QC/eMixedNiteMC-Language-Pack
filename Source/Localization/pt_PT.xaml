@@ -43,7 +43,7 @@
 	<sys:String x:Key="LOCGameViewIconHeight">Icon Height</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartHeight">Top Part Height</sys:String>
 	<sys:String x:Key="LOCGameViewBannerHeight">Banner Height</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">Cover Height</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">Cover/TopInfo panel Height</sys:String>
 	<sys:String x:Key="LOCGameViewExpanderVisibility">Expander Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsVisibility">Details Panel Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsColumnCount">Details Panel Column Count Toggle</sys:String>

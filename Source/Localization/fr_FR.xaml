@@ -20,8 +20,8 @@
 	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">[Pas encore lancé]</sys:String>
 	<sys:String x:Key="LOCGameViewProgression">Progression</sys:String>
 	<sys:String x:Key="LOCGameViewPlayCountNotPlayed">[Pas encore lancé]</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountTimes">fois</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountTime">fois</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTimes">sessions</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTime">session</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBLabelTitle">Temps Pour Complétion</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">Histoire Principale:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">Extras:</sys:String>
@@ -43,7 +43,7 @@
 	<sys:String x:Key="LOCGameViewIconHeight">Hauteur des Icônes</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartHeight">Hauteur de la partie du haut</sys:String>
 	<sys:String x:Key="LOCGameViewBannerHeight">Hauteur de la bannière</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">Hauteur de la couverture</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">Hauteur de la couverture/panneau topinfo</sys:String>
 	<sys:String x:Key="LOCGameViewExpanderVisibility">Basculer la visibilité de l'expanseur</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsVisibility">Basculer la visibilité du panneau des détails</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsColumnCount">Basculer le nombre de colonnes du panneau des détails</sys:String>
