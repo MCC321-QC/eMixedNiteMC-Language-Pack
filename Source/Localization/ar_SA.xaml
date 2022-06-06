@@ -43,7 +43,7 @@
 	<sys:String x:Key="LOCGameViewIconHeight">طول الأيقونة</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartHeight">ارتفاع الجزء العلوي</sys:String>
 	<sys:String x:Key="LOCGameViewBannerHeight">ارتفاع اللافتات</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">ارتفاع الغلاف</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">Cover/TopInfo panel Height</sys:String>
 	<sys:String x:Key="LOCGameViewExpanderVisibility">رؤية الموسع</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsVisibility">رؤية لوحة التفاصيل</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsColumnCount">تبديل عدد أعمدة لوحة التفاصيل</sys:String>
