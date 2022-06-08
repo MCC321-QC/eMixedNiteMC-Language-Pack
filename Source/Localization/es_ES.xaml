@@ -43,7 +43,7 @@
 	<sys:String x:Key="LOCGameViewIconHeight">Altura del icono</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartHeight">Alto de la parte superior</sys:String>
 	<sys:String x:Key="LOCGameViewBannerHeight">Altura del banner</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">Cover Height</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">Altura de la carátula</sys:String>
 	<sys:String x:Key="LOCGameViewExpanderVisibility">Visibilidad del botón de expandir/contraer</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsVisibility">Visibilidad del panel de detalles</sys:String>
 	<sys:String x:Key="LOCGameViewDetailsColumnCount">Alternar el número de columnas del panel de detalles</sys:String>
