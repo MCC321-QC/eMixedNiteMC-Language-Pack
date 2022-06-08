@@ -16,10 +16,7 @@ Link: [eMixedNiteMC Language Pack 1.7](https://github.com/MCC321-QC/eMixedNiteM
 
 * **_Version: 1.7_**
   * Updated localization
-    * Change Tooltips in bottom Quick settings wheel of Grid/Details View "Cover Height" to "Cover/TopInfo panel Height"
     * Change both french localization "fois" to "sessions" and "session"
-    * English Updated
-    * French Updated
     * Portuguese, Brazilian 20% (Done by [Lucoshi](https://crowdin.com/profile/lucoshi))
 
 * **_Version: 1.6_**
