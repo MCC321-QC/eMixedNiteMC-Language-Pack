@@ -1,5 +1,13 @@
 AddonId: eMixedNiteMCLanguagePack_7ed74021-1c44-4baf-91a7-c3a6852de35c
 Packages:
+  - Version: 1.7
+    RequiredApiVersion: 6.2.2
+    ReleaseDate: 2022-06-08
+    PackageUrl: https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.7/eMixedNiteMCLanguagePack_1_7.pext
+    Changelog:
+      - Updated localization
+      - Change both french localization "fois" to "sessions" and "session"
+      - Portuguese, Brazilian 20% (Done by Lucoshi)
   - Version: 1.6
     RequiredApiVersion: 6.2.2
     ReleaseDate: 2022-05-30
