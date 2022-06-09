@@ -9,7 +9,7 @@ Provide the functionality to localize [eMixedNiteMC](https://github.com/MCC321-Q
 Link: [eMixedNiteMC Language Pack 1.7](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.7/eMixedNiteMCLanguagePack_1_7.pext)<br>
 <br>
 
-<img src="https://i.imgur.com/XBMqltv.png"><br>
+![Alt Text](https://github.com/MCC321-QC/eMixedNiteMC/blob/main/screenshots/README_Images/Demo1.gif)<br>
 <br>
 
 ## Changelog
