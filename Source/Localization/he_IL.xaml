@@ -14,19 +14,19 @@
 	<sys:String x:Key="LOCGameViewPlayCountVisibility">Play Count Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">Toggle Position Of Features Panel</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">HLTB Icons/Labels Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
+	<sys:String x:Key="LOCGameViewSuccessStoryLists">החלף אצ מצב רשימת ההישגים ברירת מחדל/קומפקטי</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">Toggle Top Part Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">Play/Stop Trailer Video</sys:String>
-	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">Not Played</sys:String>
-	<sys:String x:Key="LOCGameViewProgression">Completion</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountNotPlayed">Not Played</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountTimes">times</sys:String>
-	<sys:String x:Key="LOCGameViewPlayCountTime">time</sys:String>
+	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">לא שוחקו</sys:String>
+	<sys:String x:Key="LOCGameViewProgression">סִיוּם</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountNotPlayed">לא שוחקו</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTimes">פעמים</sys:String>
+	<sys:String x:Key="LOCGameViewPlayCountTime">זמן</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBLabelTitle">How Long To Beat</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">Main:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBExtraLabel">Extras:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">ראשי:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBExtraLabel">בנוסף:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completionist:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Solo:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBSoloLabel">יחיד:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Co-Op:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
 	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Unlocked Achievements</sys:String>
@@ -75,10 +75,10 @@
 	
 	<!-- DetailsList -->
 	
-	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Details List:</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">רשימה מפורטת:</sys:String>
 	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Details List Quick Settings</sys:String>
 	<sys:String x:Key="LOCDetailsListMultiLineTitle">Multi-Line Game Title</sys:String>
 	<sys:String x:Key="LOCDetailsListInfoVisibility">Information Visibility</sys:String>
-	<sys:String x:Key="LOCDetailsListLessInfo">Show Less Information</sys:String>
+	<sys:String x:Key="LOCDetailsListLessInfo">הצג פחות מידע</sys:String>
 	
 </ResourceDictionary>
