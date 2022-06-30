@@ -27,20 +27,20 @@
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">בנוסף:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completionist:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBSoloLabel">יחיד:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Co-Op:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
-	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Unlocked Achievements</sys:String>
-	<sys:String x:Key="LOCGameViewSSLockedIconLabel">Locked Achievements</sys:String>
-	<sys:String x:Key="LOCGameViewSSCompactIconLabel">Achievements Locked/Unlocked</sys:String>
-	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">All Achievements</sys:String>
-	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">TimeLine</sys:String>
-	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">UserStats</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">שיתוף פעולה:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBVSLabel">נגד:</sys:String>
+	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">הישגים שהושגו</sys:String>
+	<sys:String x:Key="LOCGameViewSSLockedIconLabel">הישגים נעולים</sys:String>
+	<sys:String x:Key="LOCGameViewSSCompactIconLabel">הישגים נעולים/לא נעולים</sys:String>
+	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">כל ההשיגים</sys:String>
+	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">ציר זמן</sys:String>
+	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">סטטיסטיקות משתמש</sys:String>
 	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Last Session</sys:String>
 	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Time Session</sys:String>
-	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Latest News</sys:String>
+	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">חדשות אחרונות</sys:String>
 	<sys:String x:Key="LOCGameViewOpenExpanderHover">Open Expander</sys:String>
 	<sys:String x:Key="LOCGameViewCloseExpanderHover">Close Expander</sys:String>
-	<sys:String x:Key="LOCGameViewIconHeight">Icon Height</sys:String>
+	<sys:String x:Key="LOCGameViewIconHeight">גובה האייקון</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartHeight">Top Part Height</sys:String>
 	<sys:String x:Key="LOCGameViewBannerHeight">Banner Height</sys:String>
 	<sys:String x:Key="LOCGameViewCoverHeight">Cover Height</sys:String>
@@ -50,26 +50,26 @@
 	
 	<!-- General GameList -->
 	
-	<sys:String x:Key="LOCGameListPlayButton">Play</sys:String>
-	<sys:String x:Key="LOCGameListQuickSettingsHover">Quick Settings Wheel</sys:String>
+	<sys:String x:Key="LOCGameListPlayButton">לשחק</sys:String>
+	<sys:String x:Key="LOCGameListQuickSettingsHover">הגדרות מהירות</sys:String>
 	<sys:String x:Key="LOCGameListWidth">List Width</sys:String>
 	
 	<!-- GridView -->
 
 	<sys:String x:Key="LOCGridViewCoverHeight">Cover Height(Permanent!)</sys:String>
-	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Grid View:</sys:String>
+	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">תצוגת רשת:</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHover">Grid View Quick Settings Wheel</sys:String>
 	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">Grid View Quick Settings</sys:String>
 	
 	<!-- GridList -->
 	
-	<sys:String x:Key="LOCGridListQuickSettingsTitle">Grid List:</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsTitle">רשימת רשת:</sys:String>
 	<sys:String x:Key="LOCGridListQuickSettingsHover">Grid List Quick Settings</sys:String>
 	<sys:String x:Key="LOCGridListInfoPanelVisibility">Information Panel Visibility</sys:String>
 	
 	<!-- DetailsView -->
 	
-	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Details View:</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">הצגת פרטים:</sys:String>
 	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Details View Quick Settings Wheel</sys:String>
 	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Details View Quick Settings</sys:String>
 	
