@@ -3,11 +3,11 @@
 
     <!-- General GameView -->
 	
-	<sys:String x:Key="LOCGameViewBannerVisibility">Banner Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewCoverVisibility">Cover Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewBannerText">Toggle Image/Text In Banner</sys:String>
-	<sys:String x:Key="LOCGameViewBannerPosition">Toggle Banner Position</sys:String>
-	<sys:String x:Key="LOCGameViewLibraryBanners">Toggle Library Banners</sys:String>
+	<sys:String x:Key="LOCGameViewBannerVisibility">横幅可见性</sys:String>
+	<sys:String x:Key="LOCGameViewCoverVisibility">封面可见性</sys:String>
+	<sys:String x:Key="LOCGameViewBannerText">切换横幅的图像/文本</sys:String>
+	<sys:String x:Key="LOCGameViewBannerPosition">切换横幅位置</sys:String>
+	<sys:String x:Key="LOCGameViewLibraryBanners">切换库横幅</sys:String>
 	<sys:String x:Key="LOCGameViewLibraryIcons">Toggle Use Of Platform/Library Icons</sys:String>
 	<sys:String x:Key="LOCGameViewLogoVisibility">Logo Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewTitleVisibility">Title Visibility</sys:String>
