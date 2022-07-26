@@ -8,11 +8,11 @@
 	<sys:String x:Key="LOCGameViewBannerText">切换横幅的图像/文本</sys:String>
 	<sys:String x:Key="LOCGameViewBannerPosition">切换横幅位置</sys:String>
 	<sys:String x:Key="LOCGameViewLibraryBanners">切换库横幅</sys:String>
-	<sys:String x:Key="LOCGameViewLibraryIcons">Toggle Use Of Platform/Library Icons</sys:String>
+	<sys:String x:Key="LOCGameViewLibraryIcons">切换使用平台/库图标</sys:String>
 	<sys:String x:Key="LOCGameViewLogoVisibility">徽标可见性</sys:String>
 	<sys:String x:Key="LOCGameViewTitleVisibility">标题可见性</sys:String>
 	<sys:String x:Key="LOCGameViewPlayCountVisibility">游玩次数可见性</sys:String>
-	<sys:String x:Key="LOCGameViewFeaturesPosition">Toggle Position Of Features Panel</sys:String>
+	<sys:String x:Key="LOCGameViewFeaturesPosition">切换功能特色面板位置</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">攻关历时图标/标签可见性</sys:String>
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">切换顶部可见性</sys:String>
@@ -34,23 +34,23 @@
 	<sys:String x:Key="LOCGameViewSSCompactIconLabel">成就未解锁/已解锁</sys:String>
 	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">所有成就</sys:String>
 	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">时间线</sys:String>
-	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">UserStats</sys:String>
-	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Last Session</sys:String>
-	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Time Session</sys:String>
-	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Latest News</sys:String>
-	<sys:String x:Key="LOCGameViewOpenExpanderHover">Open Expander</sys:String>
-	<sys:String x:Key="LOCGameViewCloseExpanderHover">Close Expander</sys:String>
-	<sys:String x:Key="LOCGameViewIconHeight">Icon Height</sys:String>
-	<sys:String x:Key="LOCGameViewTopPartHeight">Top Part Height</sys:String>
-	<sys:String x:Key="LOCGameViewBannerHeight">Banner Height</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">Cover Height</sys:String>
-	<sys:String x:Key="LOCGameViewExpanderVisibility">Expander Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsVisibility">Details Panel Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsColumnCount">Details Panel Column Count Toggle</sys:String>
+	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">用户统计数据</sys:String>
+	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">最近会话</sys:String>
+	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">时间会话</sys:String>
+	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">最近新闻</sys:String>
+	<sys:String x:Key="LOCGameViewOpenExpanderHover">打开扩展区</sys:String>
+	<sys:String x:Key="LOCGameViewCloseExpanderHover">关闭扩展区</sys:String>
+	<sys:String x:Key="LOCGameViewIconHeight">图标高度</sys:String>
+	<sys:String x:Key="LOCGameViewTopPartHeight">顶部高度</sys:String>
+	<sys:String x:Key="LOCGameViewBannerHeight">横幅高度</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">封面高度</sys:String>
+	<sys:String x:Key="LOCGameViewExpanderVisibility">扩展区可见性</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsVisibility">详情面板可见性</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsColumnCount">详情面板列数切换</sys:String>
 	
 	<!-- General GameList -->
 	
-	<sys:String x:Key="LOCGameListPlayButton">Play</sys:String>
+	<sys:String x:Key="LOCGameListPlayButton">游玩</sys:String>
 	<sys:String x:Key="LOCGameListQuickSettingsHover">Quick Settings Wheel</sys:String>
 	<sys:String x:Key="LOCGameListWidth">List Width</sys:String>
 	
