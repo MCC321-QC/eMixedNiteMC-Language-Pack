@@ -14,7 +14,7 @@
 	<sys:String x:Key="LOCGameViewPlayCountVisibility">游玩次数可见性</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">切换功能特色面板位置</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">攻关历时图标/标签可见性</sys:String>
-	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
+	<sys:String x:Key="LOCGameViewSuccessStoryLists">切换默认/紧凑成就列表</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">切换顶部可见性</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">播放/停止预告片视频</sys:String>
 	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">未游玩</sys:String>
@@ -51,34 +51,34 @@
 	<!-- General GameList -->
 	
 	<sys:String x:Key="LOCGameListPlayButton">游玩</sys:String>
-	<sys:String x:Key="LOCGameListQuickSettingsHover">Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCGameListWidth">List Width</sys:String>
+	<sys:String x:Key="LOCGameListQuickSettingsHover">快速设置转盘</sys:String>
+	<sys:String x:Key="LOCGameListWidth">列表宽度</sys:String>
 	
 	<!-- GridView -->
 
-	<sys:String x:Key="LOCGridViewCoverHeight">Cover Height(Permanent!)</sys:String>
-	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Grid View:</sys:String>
-	<sys:String x:Key="LOCGridViewQuickSettingsHover">Grid View Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">Grid View Quick Settings</sys:String>
+	<sys:String x:Key="LOCGridViewCoverHeight">封面高度（永久！）</sys:String>
+	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">网格视图：</sys:String>
+	<sys:String x:Key="LOCGridViewQuickSettingsHover">网格视图快速设置转盘</sys:String>
+	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">网格视图快速设置</sys:String>
 	
 	<!-- GridList -->
 	
-	<sys:String x:Key="LOCGridListQuickSettingsTitle">Grid List:</sys:String>
-	<sys:String x:Key="LOCGridListQuickSettingsHover">Grid List Quick Settings</sys:String>
-	<sys:String x:Key="LOCGridListInfoPanelVisibility">Information Panel Visibility</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsTitle">网格列表：</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsHover">网格视图快速设置</sys:String>
+	<sys:String x:Key="LOCGridListInfoPanelVisibility">信息面板可见性</sys:String>
 	
 	<!-- DetailsView -->
 	
-	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Details View:</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Details View Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Details View Quick Settings</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">详情视图：</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">详情视图快速设置转盘</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">详情视图快速设置</sys:String>
 	
 	<!-- DetailsList -->
 	
-	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Details List:</sys:String>
-	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Details List Quick Settings</sys:String>
-	<sys:String x:Key="LOCDetailsListMultiLineTitle">Multi-Line Game Title</sys:String>
-	<sys:String x:Key="LOCDetailsListInfoVisibility">Information Visibility</sys:String>
-	<sys:String x:Key="LOCDetailsListLessInfo">Show Less Information</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">详情列表：</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsHover">详情列表快速设置</sys:String>
+	<sys:String x:Key="LOCDetailsListMultiLineTitle">多行游戏标题</sys:String>
+	<sys:String x:Key="LOCDetailsListInfoVisibility">信息可见性</sys:String>
+	<sys:String x:Key="LOCDetailsListLessInfo">显示更少信息</sys:String>
 	
 </ResourceDictionary>
