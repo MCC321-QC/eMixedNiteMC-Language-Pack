@@ -69,16 +69,16 @@
 	
 	<!-- DetailsView -->
 	
-	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Details View:</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Exibição de Detalhes:</sys:String>
 	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Details View Quick Settings Wheel</sys:String>
 	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Details View Quick Settings</sys:String>
 	
 	<!-- DetailsList -->
 	
 	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Lista de Detalhes:</sys:String>
-	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Details List Quick Settings</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Configurações Rápidas da Lista Detalhada</sys:String>
 	<sys:String x:Key="LOCDetailsListMultiLineTitle">Multi-Line Game Title</sys:String>
-	<sys:String x:Key="LOCDetailsListInfoVisibility">Information Visibility</sys:String>
+	<sys:String x:Key="LOCDetailsListInfoVisibility">Visibilidade de Informações</sys:String>
 	<sys:String x:Key="LOCDetailsListLessInfo">Mostrar Menos Informações</sys:String>
 	
 </ResourceDictionary>
