@@ -29,8 +29,8 @@
 	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Solo:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Cooperativo:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
-	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Unlocked Achievements</sys:String>
-	<sys:String x:Key="LOCGameViewSSLockedIconLabel">Locked Achievements</sys:String>
+	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Conquistas Desbloqueadas</sys:String>
+	<sys:String x:Key="LOCGameViewSSLockedIconLabel">Conquistas Bloqueadas</sys:String>
 	<sys:String x:Key="LOCGameViewSSCompactIconLabel">Achievements Locked/Unlocked</sys:String>
 	<sys:String x:Key="LOCGameViewSSExpanderItemTitle">Todas as conquistas</sys:String>
 	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">TimeLine</sys:String>
@@ -79,6 +79,6 @@
 	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Details List Quick Settings</sys:String>
 	<sys:String x:Key="LOCDetailsListMultiLineTitle">Multi-Line Game Title</sys:String>
 	<sys:String x:Key="LOCDetailsListInfoVisibility">Information Visibility</sys:String>
-	<sys:String x:Key="LOCDetailsListLessInfo">Show Less Information</sys:String>
+	<sys:String x:Key="LOCDetailsListLessInfo">Mostrar Menos Informações</sys:String>
 	
 </ResourceDictionary>
