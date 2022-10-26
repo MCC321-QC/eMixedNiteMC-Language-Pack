@@ -14,7 +14,7 @@
 	<sys:String x:Key="LOCGameViewPlayCountVisibility">Spielzähler sichtbar</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">Position des Eigenschaften-Panels umschalten</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">HLTB Icons/Labels Sichtbarkeit</sys:String>
-	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
+	<sys:String x:Key="LOCGameViewSuccessStoryLists">Erfolge Standard/Kompakt umschalten</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">Sichtbarkeit des oberen Teils umschalten</sys:String>
 	<sys:String x:Key="LOCGameViewPlayTrailerButton">Trailer-Video abspielen/stoppen</sys:String>
 	<sys:String x:Key="LOCGameViewLastPlayedNotPlayed">Nicht gespielt</sys:String>
@@ -36,49 +36,49 @@
 	<sys:String x:Key="LOCGameViewSSTimeLineExpanderItem">Verlauf</sys:String>
 	<sys:String x:Key="LOCGameViewSSUserStatsExpanderItem">Nutzerstatistiken</sys:String>
 	<sys:String x:Key="LOCGameViewGALastSessionExpanderItem">Letzte Sitzung</sys:String>
-	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Time Session</sys:String>
-	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Latest News</sys:String>
-	<sys:String x:Key="LOCGameViewOpenExpanderHover">Open Expander</sys:String>
-	<sys:String x:Key="LOCGameViewCloseExpanderHover">Close Expander</sys:String>
-	<sys:String x:Key="LOCGameViewIconHeight">Icon Height</sys:String>
-	<sys:String x:Key="LOCGameViewTopPartHeight">Top Part Height</sys:String>
-	<sys:String x:Key="LOCGameViewBannerHeight">Banner Height</sys:String>
-	<sys:String x:Key="LOCGameViewCoverHeight">Cover Height</sys:String>
-	<sys:String x:Key="LOCGameViewExpanderVisibility">Expander Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsVisibility">Details Panel Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewDetailsColumnCount">Details Panel Column Count Toggle</sys:String>
+	<sys:String x:Key="LOCGameViewGATimeSessionExpanderItem">Zeit Sitzung</sys:String>
+	<sys:String x:Key="LOCGameViewNVLatestNewsExpanderItem">Neueste Nachrichten</sys:String>
+	<sys:String x:Key="LOCGameViewOpenExpanderHover">Expander öffnen</sys:String>
+	<sys:String x:Key="LOCGameViewCloseExpanderHover">Expander schließen</sys:String>
+	<sys:String x:Key="LOCGameViewIconHeight">Icon-Höhe</sys:String>
+	<sys:String x:Key="LOCGameViewTopPartHeight">Höhe oberer Teil</sys:String>
+	<sys:String x:Key="LOCGameViewBannerHeight">Banner-Höhe</sys:String>
+	<sys:String x:Key="LOCGameViewCoverHeight">Cover-Höhe</sys:String>
+	<sys:String x:Key="LOCGameViewExpanderVisibility">Expander-Sichtbarkeit</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsVisibility">Sichtbarkeit der Detailansicht</sys:String>
+	<sys:String x:Key="LOCGameViewDetailsColumnCount">Spaltenanzahl Detailansicht umschalten</sys:String>
 	
 	<!-- General GameList -->
 	
-	<sys:String x:Key="LOCGameListPlayButton">Play</sys:String>
-	<sys:String x:Key="LOCGameListQuickSettingsHover">Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCGameListWidth">List Width</sys:String>
+	<sys:String x:Key="LOCGameListPlayButton">Spielen</sys:String>
+	<sys:String x:Key="LOCGameListQuickSettingsHover">Schnelleinstellungsrad</sys:String>
+	<sys:String x:Key="LOCGameListWidth">Listen-Breite</sys:String>
 	
 	<!-- GridView -->
 
-	<sys:String x:Key="LOCGridViewCoverHeight">Cover Height(Permanent!)</sys:String>
-	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Grid View:</sys:String>
-	<sys:String x:Key="LOCGridViewQuickSettingsHover">Grid View Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">Grid View Quick Settings</sys:String>
+	<sys:String x:Key="LOCGridViewCoverHeight">Cover-Höhe (Permanent!)</sys:String>
+	<sys:String x:Key="LOCGridViewViewQuickSettingsTitle">Rasteransicht:</sys:String>
+	<sys:String x:Key="LOCGridViewQuickSettingsHover">Rasteransicht Schnelleinstellungsrad</sys:String>
+	<sys:String x:Key="LOCGridViewQuickSettingsHoverAlt">Rasteransicht Schnelleinstellungen</sys:String>
 	
 	<!-- GridList -->
 	
-	<sys:String x:Key="LOCGridListQuickSettingsTitle">Grid List:</sys:String>
-	<sys:String x:Key="LOCGridListQuickSettingsHover">Grid List Quick Settings</sys:String>
-	<sys:String x:Key="LOCGridListInfoPanelVisibility">Information Panel Visibility</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsTitle">Rasterliste:</sys:String>
+	<sys:String x:Key="LOCGridListQuickSettingsHover">Rasterliste Schnelleinstellungen</sys:String>
+	<sys:String x:Key="LOCGridListInfoPanelVisibility">Sichtbarkeit des Informationsbereichs</sys:String>
 	
 	<!-- DetailsView -->
 	
-	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Details View:</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Details View Quick Settings Wheel</sys:String>
-	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Details View Quick Settings</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsTitle">Detailansicht:</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHover">Detailansicht Schnelleinstellungensrad</sys:String>
+	<sys:String x:Key="LOCDetailsViewQuickSettingsHoverAlt">Detailansicht Schnelleinstellungen</sys:String>
 	
 	<!-- DetailsList -->
 	
-	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Details List:</sys:String>
-	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Details List Quick Settings</sys:String>
-	<sys:String x:Key="LOCDetailsListMultiLineTitle">Multi-Line Game Title</sys:String>
-	<sys:String x:Key="LOCDetailsListInfoVisibility">Information Visibility</sys:String>
-	<sys:String x:Key="LOCDetailsListLessInfo">Show Less Information</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsTitle">Detailliste:</sys:String>
+	<sys:String x:Key="LOCDetailsListQuickSettingsHover">Detailliste-Schnelleinstellungen</sys:String>
+	<sys:String x:Key="LOCDetailsListMultiLineTitle">Mehrzeiliger Spieltitel</sys:String>
+	<sys:String x:Key="LOCDetailsListInfoVisibility">Sichtbarkeit der Informationen</sys:String>
+	<sys:String x:Key="LOCDetailsListLessInfo">Weniger Informationen anzeigen</sys:String>
 	
 </ResourceDictionary>
