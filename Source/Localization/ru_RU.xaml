@@ -12,7 +12,7 @@
 	<sys:String x:Key="LOCGameViewLogoVisibility">Видимость логотипа</sys:String>
 	<sys:String x:Key="LOCGameViewTitleVisibility">Видимость заголовка</sys:String>
 	<sys:String x:Key="LOCGameViewPlayCountVisibility">Play Count Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewFeaturesPosition">Toggle Position Of Features Panel</sys:String>
+	<sys:String x:Key="LOCGameViewFeaturesPosition">Переключить положение панели функций</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">HLTB Icons/Labels Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewSuccessStoryLists">Toggle Achievements Default/Compact</sys:String>
 	<sys:String x:Key="LOCGameViewTopPartVisibility">Видимость верхней части</sys:String>
@@ -28,7 +28,7 @@
 	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completionist:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Один игрок:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Кооператив:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBVSLabel">Сравнение:</sys:String>
 	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Разблокированные достижения</sys:String>
 	<sys:String x:Key="LOCGameViewSSLockedIconLabel">Заблокированные достижения</sys:String>
 	<sys:String x:Key="LOCGameViewSSCompactIconLabel">Заблокированы/разблокированы достижения</sys:String>
