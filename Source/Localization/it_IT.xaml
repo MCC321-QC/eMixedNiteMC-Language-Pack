@@ -3,14 +3,14 @@
 
     <!-- General GameView -->
 	
-	<sys:String x:Key="LOCGameViewBannerVisibility">Banner Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewCoverVisibility">Cover Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewBannerText">Toggle Image/Text In Banner</sys:String>
-	<sys:String x:Key="LOCGameViewBannerPosition">Toggle Banner Position</sys:String>
-	<sys:String x:Key="LOCGameViewLibraryBanners">Toggle Library Banners</sys:String>
-	<sys:String x:Key="LOCGameViewLibraryIcons">Toggle Use Of Platform/Library Icons</sys:String>
-	<sys:String x:Key="LOCGameViewLogoVisibility">Logo Visibility</sys:String>
-	<sys:String x:Key="LOCGameViewTitleVisibility">Title Visibility</sys:String>
+	<sys:String x:Key="LOCGameViewBannerVisibility">Visibilità Banner</sys:String>
+	<sys:String x:Key="LOCGameViewCoverVisibility">Visibilità Copertina</sys:String>
+	<sys:String x:Key="LOCGameViewBannerText">Attiva/Disattiva Immagine/Testo Nel Banner</sys:String>
+	<sys:String x:Key="LOCGameViewBannerPosition">Attiva/Disattiva Posizione Banner</sys:String>
+	<sys:String x:Key="LOCGameViewLibraryBanners">Attiva/Disattiva Banner Libreria</sys:String>
+	<sys:String x:Key="LOCGameViewLibraryIcons">Attiva/Disattiva Utilizzo Delle Icone Piattaforma/Libreria</sys:String>
+	<sys:String x:Key="LOCGameViewLogoVisibility">Visibilità Logo</sys:String>
+	<sys:String x:Key="LOCGameViewTitleVisibility">Visibilità Titolo</sys:String>
 	<sys:String x:Key="LOCGameViewPlayCountVisibility">Play Count Visibility</sys:String>
 	<sys:String x:Key="LOCGameViewFeaturesPosition">Toggle Position Of Features Panel</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVisibility">HLTB Icons/Labels Visibility</sys:String>
@@ -26,7 +26,7 @@
 	<sys:String x:Key="LOCGameViewHLTBMainStoryLabel">Main:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBExtraLabel">Extras:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCompletionistLabel">Completionist:</sys:String>
-	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Solo:</sys:String>
+	<sys:String x:Key="LOCGameViewHLTBSoloLabel">Singolo:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBCoOpLabel">Co-Op:</sys:String>
 	<sys:String x:Key="LOCGameViewHLTBVSLabel">VS:</sys:String>
 	<sys:String x:Key="LOCGameViewSSUnlockedIconLabel">Unlocked Achievements</sys:String>
