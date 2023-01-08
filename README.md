@@ -1,4 +1,4 @@
-_eMixedNiteMC Language Pack_ is a language pack for [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC)
+> __Note__: _eMixedNiteMC Language Pack_ is no longer needed after eMixedNiteMC v3.5!
 # eMixedNiteMC Language Pack [![Release](https://img.shields.io/github/v/release/MCC321-QC/eMixedNiteMC-Language-Pack?display_name=release&include_prereleases&label=Release&sort=date&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/tag/v1.7) [![Download](https://img.shields.io/github/downloads/MCC321-QC/eMixedNiteMC-Language-Pack/total?label=Downloads&style=flat)](https://github.com/MCC321-QC/eMixedNiteMC-Language-Pack/releases/download/v1.7/eMixedNiteMCLanguagePack_1_7.pext) [![Crowdin](https://badges.crowdin.net/emixednitemc/localized.svg)](https://crowdin.com/project/emixednitemc)
 Provide the functionality to localize [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) v2.75+ in any language Playnite support. This extension is ***Needed*** to run [eMixedNiteMC](https://github.com/MCC321-QC/eMixedNiteMC) properly!<br>
 <br>
